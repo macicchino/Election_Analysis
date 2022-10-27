@@ -10,10 +10,6 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.9.11, Visual Studio Code, 1.71.2
-
 ## Election Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
@@ -31,3 +27,7 @@ The analysis of the election show that:
 ## Election Audit Summary
 
 (Add Statment to the election commision. How script works, and how it can be used for any election. How to modify the script 2 examples.)
+
+### Resources
+- Data Source: election_results.csv
+- Software: Python 3.9.11, Visual Studio Code, 1.71.2
