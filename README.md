@@ -28,6 +28,6 @@ The analysis of the election show that:
 
 (Add Statment to the election commision. How script works, and how it can be used for any election. How to modify the script 2 examples.)
 
-### Resources
+## Resources
 - Data Source: election_results.csv
 - Software: Python 3.9.11, Visual Studio Code, 1.71.2
