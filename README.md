@@ -1,7 +1,7 @@
 # Election_Analysis
 
 
-## Project Overview
+## Project Overview: Election Audit
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -12,22 +12,22 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Software: Python 3.9.11, Visual Studio Code, 1.71.2
 
-## Summary
+## Election Audit Results
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
+  - Charles Casper Stockham
+  - Diana Degette
+  - Raymon Anthony Doane
 - The candidate results were: 23
-  - Candidate 1 received "x" of the vote and "y" number of votes.
-  - Candidate 2 received "x" of the vote and "y" number of votes.
-  - Candidate 3 received "x" of the vote and "y" number of votes.
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  - Diana Degette received 73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
-  - Candidate (1, 2, or 3), who received "x" of the vote and "y" number of votes.
+  - Diana Degette, who received 73.8% of the vote and 272,892 number of votes.
 
-## Challenge Overview
+## Election Audit Summary
 
-## Challenge Summary
+(Add Statment to the election commision. How script works, and how it can be used for any election. How to modify the script 2 examples.)
