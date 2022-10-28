@@ -52,12 +52,15 @@ The python script within PyPoll_Challenge.py can be used for any election. As lo
 - Python Template: PyPoll_Challenge_starter_code.py
 - Software: Python 3.9.11, Visual Studio Code, 1.71.2
 
-## Examples: Terminal Output and .txt File Output  
-- Below is the terminal output using the python script. 
+## Examples: Terminal Output and .txt File Output
+
+Below is the terminal output using the python script:
 
 ![Election_terminal_output](Output/Election_terminal_output.png "Election_terminal_output")
 
-- Below is the .txt file output using the python script. 
+
+Below is the .txt file output using the python script:
+
 ![Election_txt_file_output](Output/Election_txt_file_output.png "Election_txt_file_output")
 
 
