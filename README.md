@@ -10,8 +10,15 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
+In addition to the initial requests, the election commission has also asked for the following:
+
+6. The voter turnout for each county.
+7. The percentage of votes from each county out of the total count.
+8. The county with the highest turnout. 
+
 ## Election Audit Results
-The analysis of the election show that:
+
+###The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
   - Charles Casper Stockham
@@ -23,6 +30,18 @@ The analysis of the election show that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
   - Diana Degette, who received 73.8% of the vote and 272,892 number of votes.
+
+###The additional analysis shows that:
+- The voter turnout by county was the following:
+  - Jefferson: 38,855
+  - Denver: 306,055
+  - Arapahoe: 24,801
+- The percetage of votes for each county out of the total votes was the following:
+  - Jefferson: 10.5%
+  - Denver: 82.8%
+  - Arapahoe: 6.7%
+- The county with the highest turnout was Denver. 
+  - Denver had 82.8% of the vote with 306,055 votes.
 
 ## Election Audit Summary
 
