@@ -18,7 +18,7 @@ In addition to the initial requests, the election commission has also asked for 
 
 ## Election Audit Results
 
-##The analysis of the election show that:
+The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
   - Charles Casper Stockham
@@ -31,7 +31,7 @@ In addition to the initial requests, the election commission has also asked for 
 - The winner of the election was:
   - Diana Degette, who received 73.8% of the vote and 272,892 number of votes.
 
-##The additional analysis shows that:
+The additional analysis shows that:
 - The voter turnout by county was the following:
   - Jefferson: 38,855
   - Denver: 306,055
