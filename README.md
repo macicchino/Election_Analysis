@@ -47,6 +47,10 @@ The additional analysis shows that:
 
 The python script within PyPoll_Challenge.py can be used for any election. As long as the csv file containing the election data has the same 3 columns of variables (Ballot ID, County, Candidate). Add the updated source data to the 'Resources' folder in a csv format. On row 9 of the python code, update the election source data from 'election_results.csv' to the updated source file. In addition, you will want to update the output file on row 11 from 'election_results.txt' to a new .txt file so you do not overwrite the previous election data. 
 
+## Terminal Output and .txt File Output Examples: 
+- D
+- P
+- S
 
 ## Resources
 - Data Source: election_results.csv
