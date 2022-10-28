@@ -49,8 +49,11 @@ The python script within PyPoll_Challenge.py can be used for any election. As lo
 
 ## Terminal Output and .txt File Output Examples: 
 - D
-- P
+
+![Election_terminal_output](Output/Election_terminal_output.png "Election_terminal_output")
+
 - S
+![Election_txt_file_output](Output/Election_txt_file_output.png "Election_txt_file_output")
 
 ## Resources
 - Data Source: election_results.csv
